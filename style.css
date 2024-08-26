@@ -1,0 +1,27 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+class {
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(163, 44, 44);
+}
+
+id {
+    font-size: 2rem;
+    font-weight: bold;
+    color: green;
+}
+* {
+    outline: 2px solid red;
+  }
+  
